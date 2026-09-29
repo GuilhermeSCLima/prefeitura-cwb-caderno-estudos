@@ -264,27 +264,6 @@ O método utilizado no caderno segue o ciclo:
 
 ---
 
-## 🛠️ Gerador de cadernos
-
-A estrutura do caderno pode ser criada automaticamente através do projeto de geração de estruturas.
-
-O gerador é responsável por transformar uma estrutura de dados em:
-
-- diretórios;
-    
-- disciplinas;
-    
-- assuntos;
-    
-- temas;
-    
-- arquivos Markdown.
-    
-
-Isso permite reproduzir rapidamente a estrutura do conteúdo programático sem precisar criar manualmente centenas de pastas e arquivos.
-
----
-
 ## 🌱 Versionamento
 
 O caderno utiliza Git para acompanhar sua evolução.
